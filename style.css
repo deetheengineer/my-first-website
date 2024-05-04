@@ -1,4 +1,39 @@
 html {
   height: 100%;
   width: 100%;
+} 
+h1 {
+  text-align: center; 
+  color: #023047; 
+  font-family: 'lucinda handwriting', cursive; 
+  text-decoration: underline;
+} 
+h2 {
+  text-align: center; 
+  color: #fb6f92; 
+  font-family: 'lucinda handwriting', cursive; 
+} 
+img {
+  height: auto;
+  width: 200px;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto; 
+  margin-right: auto;
+} 
+h3 {
+  text-align: center; 
+  color: #1d3557; 
+  font-family: 'lucinda handwriting', cursive; 
+  font-size: 20px;
+  text-decoration: underline;
+} 
+p {
+  font-family: 'lucinda handwriting';
+  text-align: center;
+} 
+
+ul {
+  text-align: center;
+  display: inline;
 }
